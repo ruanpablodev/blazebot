@@ -1,0 +1,13 @@
+2546: ['V', 'V', 'P'] = PRETO
+9658: ['P', 'P', 'V'] = VERMELHO
+1073: ['P', 'V', 'P'] = VERMELHO
+9378: ['V', 'P', 'V'] = PRETO
+6387: ['B', 'V', 'V'] = PRETO
+7836: ['B', 'P', 'P'] = VERMELHO
+8936: ['B', 'V', 'P'] = VERMELHO
+3582: ['B', 'P', 'V'] = PRETO
+4384: ['P', 'P', 'P', 'P', 'P', 'P', 'P', 'P'] = VERMELHO
+8363: ['V', 'V', 'V', 'V', 'V', 'V', 'V'] = PRETO
+4387: ['P', 'P', 'P', 'P', 'V'] = VERMELHO
+5748: ['V', 'V', 'V', 'P', 'V'] = PRETO
+1187: ['P', 'V', 'V', 'P', 'V', 'P'] = VERMELHO
